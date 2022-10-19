@@ -1,0 +1,4 @@
+root = true
+
+[*.{jsx,tsx,ts,js}]
+tab_width = 2
